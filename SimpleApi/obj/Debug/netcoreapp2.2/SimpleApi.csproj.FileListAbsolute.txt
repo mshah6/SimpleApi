@@ -1,0 +1,17 @@
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfoInputs.cache
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.AssemblyInfo.cs
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.deps.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.runtimeconfig.dev.json
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.dll
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\bin\Debug\netcoreapp2.2\SimpleApi.pdb
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.csproj.CoreCompileInputs.cache
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cache
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorAssemblyInfo.cs
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.RazorTargetAssemblyInfo.cache
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.dll
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.pdb
+C:\Users\himit\source\repos\GIT\SimpleApi\SimpleApi\SimpleApi\obj\Debug\netcoreapp2.2\SimpleApi.genruntimeconfig.cache
